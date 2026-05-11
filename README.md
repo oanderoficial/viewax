@@ -17,7 +17,7 @@ Ele mostra CPU, memória, swap, disco, uptime, load average e processos de forma
 
 ## Como usar 
 
-```bash
+```text
 Uso:
   viewax [opções]
 
